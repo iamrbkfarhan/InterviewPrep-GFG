@@ -1,2 +1,2 @@
-# InterviewPrep-GFG-
+# InterviewPrep-GFG
 Geekforgeeks Interview Prepation
